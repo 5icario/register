@@ -1,0 +1,12 @@
+{
+    "description": "placeholder",
+    "repo": "https://github.com/5icario/5icario.github.io",
+    "owner": {
+        "username": "5icario",
+        "email": "email@address",
+        "twitter": "<twitter-username>"
+    },
+    "record": {
+        "CNAME": "5icario.github.io"
+    }
+} 
